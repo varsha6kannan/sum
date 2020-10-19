@@ -1,4 +1,4 @@
-rainbow has 7 colors
+RAINBOW has 7 colors
 violet
 indigo
 blue
